@@ -53,4 +53,4 @@ Mi motivación es aprender constantemente y aplicar mis conocimientos para traba
 
 
 
-![Reconocimiento WorldSkills]([images/worldskills_medal.jpg](https://github.com/willianB/images/blob/main/reconocimiento_interbank.jpeg))
+![Reconocimiento WorldSkills](images/blob/main/reconocimiento_interbank.jpeg)
