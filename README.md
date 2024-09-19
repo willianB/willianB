@@ -50,15 +50,3 @@ Mi motivación es aprender constantemente y aplicar mis conocimientos para traba
 
 - **WorldSkills Colombia 2013**: Medalla de Bronce en Diseño Web a nivel nacional.  
 - **Senasoft 2013**: Primer puesto a nivel nacional en programación PHP.
-
-## Referencias
-
-- **Gustavo Rodriguez**  
-  Software Engineer Specialist at Scotia GBS  
-  📞 Teléfono: 311 646 9802  
-  ✉️ E-mail: [garodriguez335@unimayor.edu.co](mailto:garodriguez335@unimayor.edu.co)
-
-- **Carlos Maya**  
-  Banco Mundo Mujer | Analista de Datos  
-  📞 Teléfono: 310 428 2937  
-  ✉️ E-mail: [karlosandres27@unimayor.edu.co](mailto:karlosandres27@unimayor.edu.co)
