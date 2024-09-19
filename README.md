@@ -53,4 +53,5 @@ Mi motivación es aprender constantemente y aplicar mis conocimientos para traba
 
 
 
-![Reconocimiento WorldSkills](reconocimiento_interbank.jpeg)
+- **Reconocimiento Interbank Perú**
+<img src="reconocimiento_interbank.jpeg" alt="Reconocimiento Interbank" width="300" />
