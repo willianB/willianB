@@ -1,15 +1,64 @@
-<h1 align="center">Hi 👋, I'm Willian Bustos</h1>
-<h3 align="center">A passionate software developer from Colombia</h3>
+# Willian Andrés Bustos
 
-- 🔭 I’m currently working on Globant as an android developer.
+### Ingeniero Informático | Desarrollador Android | Especialista en Aplicaciones Móviles
 
-- 📫 How to reach me **wilianandres1@gmail.com**
+✉️ E-mail: [wilianandres1@gmail.com](mailto:wilianandres1@gmail.com)  
+🌐 GitHub: [github.com/willianB](https://github.com/willianB)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/devjav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="devjav" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@wilianandres1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@wilianandres1" height="30" width="40" /></a>
-</p>
+## Quién soy
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+Ingeniero informático con más de 8 años de experiencia en desarrollo de software, enfocado en el desarrollo de aplicaciones móviles (Android e iOS). Apasionado por la resolución de problemas y la creación de soluciones innovadoras, con experiencia en desarrollo con **Android Jetpack**, **MVVM**, **Clean Architecture** y **modularización** de aplicaciones. Mi objetivo es seguir creciendo como desarrollador, aplicando las mejores prácticas, como **Código limpio** y patrones de diseño, en cada proyecto.
+
+Mi motivación es aprender constantemente y aplicar mis conocimientos para trabajar en equipo y generar soluciones de alto impacto. Actualmente estoy en un rol de **Android Developer SSr Advance** en **Globant**, y he trabajado en múltiples proyectos para empresas como **Pragma** y **Integra Grupo Tecnológico LTDA**.
+
+## Experiencia Profesional
+
+### Globant (2021 - Actualidad) - Popayán  
+**Android Developer SSr Advance**  
+- Desarrollo y mantenimiento de aplicaciones móviles modulares.  
+- Implementación de arquitectura MVVM, Clean Architecture y Android Feature Delivery.  
+
+### Pragma (2020 - 2021) - Medellín  
+**Desarrollador de Software**  
+- Desarrollo de apps móviles para Android e iOS con enfoque en IoT y conexiones Bluetooth.  
+
+### Integra Grupo Tecnológico LTDA (2016 - 2020) - Popayán  
+**Programador de Software**  
+- Participación en proyectos de desarrollo web y móvil, colaborando con equipos multidisciplinarios.
+
+### HDS (2014 - 2015) - Popayán  
+**Tecnólogo Desarrollador B**  
+- Desarrollo y mantenimiento de software basado en tecnologías móviles y web.
+
+## Estudios
+
+- **Ingeniero Informático** (2019) - Institución Universitaria Colegio Mayor del Cauca
+- **Especialización Tecnológica en Desarrollo de Aplicaciones Móviles** (2015) - SENA
+- **Tecnólogo en Análisis y Desarrollo de Sistemas de Información** (2014) - SENA
+- **Técnico en Sistemas** (2011)
+- **Bachiller Técnico Industrial** (2010) - Institución Educativa Don Bosco
+
+## Habilidades Técnicas
+
+- **Lenguajes**: Java, Kotlin, Swift
+- **Frameworks**: Android Jetpack, Compose, Coroutines
+- **Metodologías**: MVVM, Clean Architecture, Modularización de apps, Git Flow, BDD
+- **Desarrollo Móvil**: Android, iOS, IoT, Bluetooth
+- **Otros**: GIT, Android Feature Delivery
+
+## Logros y Premios
+
+- **WorldSkills Colombia 2013**: Medalla de Bronce en Diseño Web a nivel nacional.  
+- **Senasoft 2013**: Primer puesto a nivel nacional en programación PHP.
+
+## Referencias
+
+- **Gustavo Rodriguez**  
+  Software Engineer Specialist at Scotia GBS  
+  📞 Teléfono: 311 646 9802  
+  ✉️ E-mail: [garodriguez335@unimayor.edu.co](mailto:garodriguez335@unimayor.edu.co)
+
+- **Carlos Maya**  
+  Banco Mundo Mujer | Analista de Datos  
+  📞 Teléfono: 310 428 2937  
+  ✉️ E-mail: [karlosandres27@unimayor.edu.co](mailto:karlosandres27@unimayor.edu.co)
