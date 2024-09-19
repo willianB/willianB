@@ -50,3 +50,7 @@ Mi motivación es aprender constantemente y aplicar mis conocimientos para traba
 
 - **WorldSkills Colombia 2013**: Medalla de Bronce en Diseño Web a nivel nacional.  
 - **Senasoft 2013**: Primer puesto a nivel nacional en programación PHP.
+
+
+
+![Reconocimiento WorldSkills]([images/worldskills_medal.jpg](https://github.com/willianB/images/blob/main/reconocimiento_interbank.jpeg))
