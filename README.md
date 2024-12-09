@@ -14,7 +14,7 @@ Mi motivación es aprender constantemente y aplicar mis conocimientos para traba
 ## Experiencia Profesional
 
 ### Globant (2021 - Actualidad) - Popayán  
-**Android Developer SSr Advance**  
+**Android Developer Senior**  
 - Desarrollo y mantenimiento de aplicaciones móviles modulares.  
 - Implementación de arquitectura MVVM, Clean Architecture y Android Feature Delivery.  
 
