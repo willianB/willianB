@@ -7,7 +7,7 @@
 
 ## Quién soy
 
-Ingeniero informático con más de 8 años de experiencia en desarrollo de software, enfocado en el desarrollo de aplicaciones móviles (Android e iOS). Apasionado por la resolución de problemas y la creación de soluciones innovadoras, con experiencia en desarrollo con **Android Jetpack**, **UnitTest**,**MVVM**, **Clean Architecture**, **Modularización** de aplicaciones y **Integracion y Despliegue Continuo**. Mi objetivo es seguir creciendo como desarrollador, aplicando las mejores prácticas, como **Código limpio** y patrones de diseño, en cada proyecto.
+Ingeniero informático con más de 8 años de experiencia en desarrollo de software, enfocado en el desarrollo de aplicaciones móviles (Android e iOS). Apasionado por la resolución de problemas y la creación de soluciones innovadoras, con experiencia en desarrollo con **Android Jetpack**, **UnitTest**, **MVVM**, **Clean Architecture**, **Modularización** de aplicaciones e **Integracion y Despliegue Continuo**. Mi objetivo es seguir creciendo como desarrollador, aplicando las mejores prácticas, como **Código limpio** y patrones de diseño, en cada proyecto.
 
 Mi motivación es aprender constantemente y aplicar mis conocimientos para trabajar en equipo y generar soluciones de alto impacto. Actualmente estoy en un rol de **Android Developer Sr** en **Globant**, y he trabajado en múltiples proyectos para empresas como **Pragma** y **Integra Grupo Tecnológico LTDA**.
 
@@ -42,9 +42,9 @@ Mi motivación es aprender constantemente y aplicar mis conocimientos para traba
 
 - **Lenguajes**: Java, Kotlin, Swift
 - **Frameworks**: Android Jetpack, Compose, Coroutines
-- **Metodologías**: MVVM, Clean Architecture, Modularización de apps, Git Flow, BDD
+- **Metodologías**: MVVM, Clean Architecture, Modularización de apps, Git Flow, BDD, CI/CD
 - **Desarrollo Móvil**: Android, iOS, IoT, Bluetooth
-- **Otros**: GIT, Android Feature Delivery
+- **Otros**: GIT, Android Feature Delivery, GitHub Actions
 
 ## Logros y Premios
 
