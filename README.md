@@ -53,7 +53,7 @@ Mi motivación es aprender constantemente y aplicar mis conocimientos para traba
 
 
 
-- **Reconocimiento Interbank Perú Q3 (2024)**
+- **Reconocimiento Interbank Perú Q2 (2024)**
 <img src="reconocimiento_interbank.jpeg" alt="Reconocimiento Interbank Q2" width="300" />
 
 
