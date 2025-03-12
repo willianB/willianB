@@ -62,7 +62,7 @@ Mi motivación es aprender constantemente y aplicar mis conocimientos para traba
 - **Desarrollo Móvil**: Android, iOS, IoT, Bluetooth
 - **PlayStore**:  Despliegue y actualización de aplicaciones en Play Store, gestionando versiones, análisis de métricas y optimización de rendimiento.
 - **Otros**: GIT, Android Feature Delivery, GitHub Actions, Firebase
-- **Seguridad**: ProGuard, R8 y DexGuard, AES, RSA y SHA, Keystore, SafetyNet y Play Integrity, Shielding y anti-debugging
+- **Seguridad**: ProGuard R8 y DexGuard, AES, RSA y SHA, Keystore, Play Integrity, Shielding y anti-debugging
 
 
 ## Logros y Premios
