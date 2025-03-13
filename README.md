@@ -27,6 +27,16 @@ Despliegue y actualización de aplicaciones en Play Store, gestionando versiones
 
 Mi motivación es aprender constantemente y aplicar mis conocimientos para trabajar en equipo y generar soluciones de alto impacto. Actualmente estoy en un rol de **Android Developer Sr** en **Globant**, y he trabajado en múltiples proyectos para empresas como **Pragma** y **Integra Grupo Tecnológico LTDA**.
 
+## Habilidades Técnicas
+
+- **Lenguajes**: Java, Kotlin, Swift
+- **Frameworks**: Android Jetpack, Compose, Coroutines
+- **Metodologías**: MVVM, Clean Architecture, Modularización de apps, Git Flow, BDD, CI/CD, SOLID, DRY, KISS
+- **Desarrollo Móvil**: Android, iOS, IoT, Bluetooth
+- **PlayStore**:  Despliegue y actualización de aplicaciones en Play Store, gestionando versiones, análisis de métricas y optimización de rendimiento.
+- **Otros**: GIT, Android Feature Delivery, GitHub Actions, Firebase
+- **Seguridad**: ProGuard R8 y DexGuard, AES, RSA y SHA, Keystore, Play Integrity, Shielding y anti-debugging
+
 ## Experiencia Profesional
 
 ### Globant (2021 - Actualidad) - Popayán  
@@ -53,16 +63,6 @@ Mi motivación es aprender constantemente y aplicar mis conocimientos para traba
 - **Tecnólogo en Análisis y Desarrollo de Sistemas de Información** (2014) - SENA
 - **Técnico en Sistemas** (2011)
 - **Bachiller Técnico Industrial** (2010) - Institución Educativa Don Bosco
-
-## Habilidades Técnicas
-
-- **Lenguajes**: Java, Kotlin, Swift
-- **Frameworks**: Android Jetpack, Compose, Coroutines
-- **Metodologías**: MVVM, Clean Architecture, Modularización de apps, Git Flow, BDD, CI/CD, SOLID, DRY, KISS
-- **Desarrollo Móvil**: Android, iOS, IoT, Bluetooth
-- **PlayStore**:  Despliegue y actualización de aplicaciones en Play Store, gestionando versiones, análisis de métricas y optimización de rendimiento.
-- **Otros**: GIT, Android Feature Delivery, GitHub Actions, Firebase
-- **Seguridad**: ProGuard R8 y DexGuard, AES, RSA y SHA, Keystore, Play Integrity, Shielding y anti-debugging
 
 
 ## Logros y Premios
