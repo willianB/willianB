@@ -10,7 +10,7 @@
 **Android**
 
 **Pico&Placa Popayán**
-<img src="logo_pico_placa.png" alt="Reconocimiento Interbank Q3" width="300" />
+<img src="logo_pico_placa.png" alt="Reconocimiento Interbank Q3" width="100" />
 
 https://play.google.com/store/apps/details?id=com.zefiroft.picoplaca&hl=es_419
 
