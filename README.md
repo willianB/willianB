@@ -68,6 +68,7 @@ Mi motivación es aprender constantemente y aplicar mis conocimientos para traba
 
 ## Logros y Premios
 
+- **Top performance Globant 2024**: Reconocimiento por alto desempeño en 2024.  
 - **WorldSkills Colombia 2013**: Medalla de Bronce en Diseño Web a nivel nacional.  
 - **Senasoft 2013**: Primer puesto a nivel nacional en programación PHP.
 
