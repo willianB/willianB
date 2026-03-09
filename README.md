@@ -31,7 +31,7 @@ Mi motivación es aprender constantemente y aplicar mis conocimientos para traba
 ## Habilidades Técnicas
 
 - **Lenguajes**: Java, Kotlin, Swift
-- **Frameworks**: Android Jetpack, Compose, Coroutines
+- **Frameworks**: Android Jetpack, Compose, Coroutines, Kotlin Multiplatform, Compose Multiplatform
 - **Metodologías**: MVVM, Clean Architecture, Modularización de apps, Git Flow, BDD, CI/CD, SOLID, DRY, KISS
 - **Desarrollo Móvil**: Android, iOS, IoT, Bluetooth
 - **PlayStore**:  Despliegue y actualización de aplicaciones en Play Store, gestionando versiones, análisis de métricas y optimización de rendimiento.
